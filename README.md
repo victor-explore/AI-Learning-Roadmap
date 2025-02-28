@@ -8,8 +8,8 @@ I have made this roadmap that I will give to my younger brother who is starting 
 - The roadmap is not exhaustive, I have designed it so that you learn 90% of the most important topics in AI.
 - I have seen most AI learning resources to either focus on maths or programming. I have designed this roadmap to cover both.
 - This is not the only possible roadmap, there are many other roadmaps that are possible. This is just a roadmap that I think is best for a beginner learning on his own.
-- There are thousands of students from all walks of life studying this roadmap in this discord server
-- I have made the discord server for students who are following this roadmap to help them learn and grow together. Here is the link to the server: [Join our Discord Server](https://discord.com/invite/QHAbprqQme). Do join thousands of students who would be learning along with you.
+- There are thousands of students from all walks of life studying this roadmap in this [Discord](https://discord.com/invite/QHAbprqQme) server
+- I have made the [Discord](https://discord.com/invite/QHAbprqQme) server for students who are following this roadmap to help them learn and grow together. Here is the link to the server: [Join our Discord Server](https://discord.com/invite/QHAbprqQme). Do join thousands of students who would be learning along with you.
 - I also encourage you to learn about the topics from other sources as well in addition to the ones mentioned in the roadmap if you have more time.
 - In case you are not able to understand a particular topic from the resources mentioned in the roadmap, do explore other resources and share your experience.
 - As and when I find a better new resource, I will update the roadmap. If you have any suggestions, please let me know so that I can update the roadmap.
@@ -21,11 +21,11 @@ I have made this roadmap that I will give to my younger brother who is starting 
 - There is no use of learning AI if you are not applying your knowledge. You should start working on real world projects. Either start working on your own projects or contribute to the projects at your company/open source community.
 - AI is one of the fastest growing field, so do keep yourself updated with the latest research, news and products.
 
-## My tips for the discord server:
+## My tips for the [Discord](https://discord.com/invite/QHAbprqQme) server:
 
-- The discord server is free and open to all with a learning mindset. Do invite your friends and classmates by sharing the server link on your social media handles and bring them along on this learning journey so that you can learn and grow together. Moreover the more members in the server, the more easier it will be to get help from each other and more resources will be shared for everyone's benefit.
+- The [Discord](https://discord.com/invite/QHAbprqQme) server is free and open to all with a learning mindset. Do invite your friends and classmates by sharing the server link on your social media handles and bring them along on this learning journey so that you can learn and grow together. Moreover the more members in the server, the more easier it will be to get help from each other and more resources will be shared for everyone's benefit.
 - Do not hesitate to ask questions. Moreover, if you have time do help others by answering their questions as this will help you solidify your understanding of the topic.
-- Do find friends in this discord server who are learning along with you and do form a study group(if possible find friends that you can even meet in person).
+- Do find friends in this [Discord](https://discord.com/invite/QHAbprqQme) server who are learning along with you and do form a study group(if possible find friends that you can even meet in person).
 
 ## Here is the roadmap:
 
